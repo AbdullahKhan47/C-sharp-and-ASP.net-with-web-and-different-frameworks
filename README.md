@@ -1,6 +1,6 @@
 # Windows Communication Foundation (WCF)
 
-This is program using the frame work of WCF in web. And it is built on the concepts of three tier architecture.
+This is program using the frame work of WCF in web. And it is built on the concepts of three tier architecture. The program works with database, and the database which is used for this purpose is Management studio.
 
 # WEBAPP
 
