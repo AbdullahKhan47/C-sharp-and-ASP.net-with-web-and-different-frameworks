@@ -1,17 +1,7 @@
-# Windows Communication Foundation (WCF)
+# Details
 
-This is program using the frame work of WCF in web. And it is built on the concepts of three tier architecture. The program works with database, and the database which is used for this purpose is Management studio.
+This repo consist of different programs and mini projects of C-sharp with ASP.net. Every different program consist of it's documentation in it. Programs are made with different methodology and frame work like MVC, linq's etc.Management studio is used for full filling the database purpose in them. Most of the project consist of database scripts also.
 
-# WEBAPP
+# Requirements
 
-# Default.aspx
-This is html web page and it is the launching file when the program will be loaded.It consist of the buttons to carry out the basic CRUD operations. Which are insert, update, delete and two type of select in which one is by the “ID” and the other one shows the whole data present in the database. The database which is used is management studio having “sql” features. The operations will be carried out according to the methods declared and define in the service class.
-
-# CLASSLIBRARY
-
-# Man.cs
-This class consist of the features or the attributes of the desired situation and these attributes are according to the database. This class consist of variables and setter and getter for each variable to carry out the required operations according to the methods define in service class.
-
-# WCFEXAMPLEPROJECT
-This is the service class which consist of all the methods which will carry out basic operations of this program. In this methods are declared and defined.
-
+All programs are made with Visual studio using the database Management studio.Use .sin file to open the whole programs.
